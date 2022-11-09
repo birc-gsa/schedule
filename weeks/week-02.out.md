@@ -23,10 +23,9 @@
 At some point you will have to write a read mapper that can read in
 (Simple-)FASTA files, so you might as well write a parser for it now...
 
-{% assign fasta.python = "FASTAPYTHON" %}
 
 The exercise continues on GitHub, and you can choose which programming
-language you wish to implement it in: \[ [Python]( {{ fasta.python }} ) \]\[
+language you wish to implement it in: \[ [Python][fasta.python] \]\[
 [Go]($fasta.go$) \]\[ [C]($fasta.c$) \]
 
 ### FASTQ files
