@@ -1,4 +1,4 @@
-# Week 9 — suffix arrays and SAIS
+# Week 9 — Suffix arrays and SAIS
 
 ## Lecture
 
