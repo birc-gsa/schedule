@@ -15,7 +15,6 @@ Once you have implemented the `readmap` program (and tested it to the best of yo
 
 Further information is available on GitHub where you can choose between implementing the project in :
 
-* [C using CMake](https://classroom.github.com/a/WZK52vWy)
-* [Go](https://classroom.github.com/a/95N2-iEX)
-* [Python](https://classroom.github.com/a/iPfMJiia)
-
+* [C using CMake][proj5.c]
+* [Go][proj5.go]
+* [Python][proj5.python]
