@@ -24,12 +24,10 @@ The exercise continues on GitHub, and you can choose which programming language 
 
 You will also have to read (Simple-)FASTQ files at some point, so write a parser for it now. Write a parser that lets you iterate through all the reads in the FASTQ file.
 
-The exercise continues on GitHub, and you can choose which programming language you wish to implement it in: [ [Python](https://classroom.github.com/a/SNorpTI9) ][ [Go](https://classroom.github.com/a/6jiC7ED4) ][ [C](https://classroom.github.com/a/F2ywXphR) ]
-
-[ [Python][fastq.python] ][ [Go][fastq.go] ][ [C][fastq.c] ]
+The exercise continues on GitHub, and you can choose which programming language you wish to implement it in: [ [Python][fastq.python] ][ [Go][fastq.go] ][ [C][fastq.c] ]
 
 ### SAM files
 
 This year, let’s try to get the output of the programs right as well…
 
-This is not a difficult exercise, but most errors I’ve seen in this class are trivial and idiotic misunderstanding what the output file format for the projects should look like. This exercise should alleviate it. Pick your language and solve it: [ [Python](https://classroom.github.com/a/bfS1ecIR) ] [ [Go](https://classroom.github.com/a/C9D3A55s) ] [ [C](https://classroom.github.com/a/a8lzL6Nz) ]
+This is not a difficult exercise, but most errors I’ve seen in this class are trivial and idiotic misunderstanding what the output file format for the projects should look like. This exercise should alleviate it. Pick your language and solve it: [ [Python][sam.python] ] [ [Go][sam.go] ] [ [C][sam.c] ]

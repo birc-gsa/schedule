@@ -41,9 +41,6 @@ language you wish to implement it in: \[
 [Go](https://classroom.github.com/a/6jiC7ED4) \]\[
 [C](https://classroom.github.com/a/F2ywXphR) \]
 
-\[ [Python](https://google.com) \]\[ [Go](https://google.com) \]\[
-[C](https://google.com) \]
-
 ### SAM files
 
 This year, let's try to get the output of the programs right as well...
