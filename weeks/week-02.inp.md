@@ -18,13 +18,15 @@
 
 At some point you will have to write a read mapper that can read in (Simple-)FASTA files, so you might as well write a parser for it now…
 
-The exercise continues on GitHub, and you can choose which programming language you wish to implement it in: [ [Python][fasta.python] ][ [Go]($fasta.go$) ][ [C]($fasta.c$) ]
+The exercise continues on GitHub, and you can choose which programming language you wish to implement it in: [ [Python][fasta.python] ][ [Go][fasta.go] ][ [C][fasta.c] ]
 
 ### FASTQ files
 
 You will also have to read (Simple-)FASTQ files at some point, so write a parser for it now. Write a parser that lets you iterate through all the reads in the FASTQ file.
 
 The exercise continues on GitHub, and you can choose which programming language you wish to implement it in: [ [Python](https://classroom.github.com/a/SNorpTI9) ][ [Go](https://classroom.github.com/a/6jiC7ED4) ][ [C](https://classroom.github.com/a/F2ywXphR) ]
+
+[ [Python][fastq.python] ][ [Go][fastq.go] ][ [C][fastq.c] ]
 
 ### SAM files
 

@@ -25,8 +25,9 @@ At some point you will have to write a read mapper that can read in
 
 The exercise continues on GitHub, and you can choose which programming
 language you wish to implement it in: \[
-[Python](https://classroom.github.com/a/3p-4YDEy) \]\[ [Go]($fasta.go$)
-\]\[ [C]($fasta.c$) \]
+[Python](https://classroom.github.com/a/3p-4YDEy) \]\[
+[Go](https://classroom.github.com/a/w34JR9FD) \]\[
+[C](https://classroom.github.com/a/ljTlT5NO) \]
 
 ### FASTQ files
 
@@ -39,6 +40,9 @@ language you wish to implement it in: \[
 [Python](https://classroom.github.com/a/SNorpTI9) \]\[
 [Go](https://classroom.github.com/a/6jiC7ED4) \]\[
 [C](https://classroom.github.com/a/F2ywXphR) \]
+
+\[ [Python](https://google.com) \]\[ [Go](https://google.com) \]\[
+[C](https://google.com) \]
 
 ### SAM files
 
