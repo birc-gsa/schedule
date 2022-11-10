@@ -8,9 +8,7 @@
 
 ## Projects
 
-**FIXME**
-
-- [Start project 1](https://www.dropbox.com/s/fay64xd2ayqafry/Project%201-%20Basic%20exact%20pattern%20matching.pdf?dl=0)
+- [Start project 1](../projects/project-01.out.md)
 
 ## Exercises
 

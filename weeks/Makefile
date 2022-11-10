@@ -1,11 +1,10 @@
-input := $(wildcard *.inp.md)
-output := $(input:.inp.md=.out.md )
+input := $(wildcard input/*.inp.md)
+output := $(notdir $(input:.inp.md=.out.md ))
 
 all: $(output)
 
-%.out.md: %.inp.md Makefile meta.md
-	echo $@ from $<
-	pandoc --to=markdown meta.md $< -o $@
+%.out.md: input/%.inp.md Makefile input/links.txt
+	cat $< input/links.txt > $@
 
 clean:
 	rm *.out.md

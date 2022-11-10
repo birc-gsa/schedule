@@ -1,3 +1,4 @@
+
 [fasta.python]: https://classroom.github.com/a/3p-4YDEy
 [fasta.go]:     https://classroom.github.com/a/w34JR9FD
 [fasta.c]:      https://classroom.github.com/a/ljTlT5NO
@@ -9,3 +10,12 @@
 [sam.python]: https://classroom.github.com/a/bfS1ecIR
 [sam.go]:     https://classroom.github.com/a/C9D3A55s
 [sam.c]:      https://classroom.github.com/a/a8lzL6Nz
+
+[cigar.python]: https://classroom.github.com/a/8IzKU7c4
+[cigar.go]:     https://classroom.github.com/a/E7lgdZbX
+[cigar.c]:      https://classroom.github.com/a/QZniBOMN
+
+[border.c]:      https://classroom.github.com/a/t1bzUNuD
+[border.go]:     https://classroom.github.com/a/LsL_tdES
+[border.python]: https://classroom.github.com/a/a8Igh8ws
+
