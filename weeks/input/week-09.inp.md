@@ -11,7 +11,7 @@
 **FIXME**
 
 - Hand in project 3
-- [Start project 4](https://www.dropbox.com/s/k6skgrwlhs8mrz4/Project%204-%20BWT-based%20matching%20%28FM-index%29.pdf?dl=0)
+- [Start project 4](../projects/project-04.out.md)
 
 ## Exercises
 

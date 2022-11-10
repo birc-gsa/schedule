@@ -76,3 +76,16 @@ If we used the strict border array in KMP, how would that affect the running tim
 [border.go]:     https://classroom.github.com/a/LsL_tdES
 [border.python]: https://classroom.github.com/a/a8Igh8ws
 
+[tree.traversal.c]:      https://classroom.github.com/a/sYzQx5sn
+[tree.traversal.go]:     https://classroom.github.com/a/xyKOTvu2
+[tree.traversal.python]: https://classroom.github.com/a/VKJGqpFE
+
+[radix.sort.python]: https://classroom.github.com/a/1ja1pcoM
+[radix.sort.go]:     https://classroom.github.com/a/SaHPc4w7
+[radix.sort.c]:      https://classroom.github.com/a/ohYQlbYy
+
+[bwt.python]: https://classroom.github.com/a/2QD5TvYV
+[bwt.go]:     https://classroom.github.com/a/vbUZjfns
+[bwt.c]:      https://classroom.github.com/a/hBxQ1k2k
+
+
