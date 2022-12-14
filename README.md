@@ -2,7 +2,9 @@
 
 Use this repo as a template for each time the class is taught. It contains the weekly plans, projects, and exercises. I put it on GitHub to get around limitations on the free Dropbox and the insane policy that we cannot share without login on OneDrive.
 
-Each year, the GitHub organisation changes, and so do all the GitHub Classes exercise links, and this repo should also take care of updating those.
+Each year, the GitHub organisation changes, and so do all the GitHub Classes exercise links, and this repo should also take care of updating those. It isn't quite perfect, though, because you cannot simply open this repo and let the students at it. The links lets strangers create repos in the organisation for the class, so they really should be kept secret. I haven't found a good solution to that yet.
+
+One option is to make the relative links global and then make PDFs out of the markdown documents. Pandoc can do that.
 
 # Genome scale algorithms
 
